@@ -1,0 +1,12 @@
+{
+    "printWidh": 100,
+    "tabWidh": 2,
+    "useTabs": false,
+    "scmi": true,
+    "singleQuote": true,
+    "trailingComa": "es5",
+    "bracketSpacing": true,
+    "jsxBracketSameline": false,
+    "arrowParens": "awoid",
+    "proseWrap": "always" 
+}
